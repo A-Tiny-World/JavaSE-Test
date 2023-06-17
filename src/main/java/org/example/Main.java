@@ -5,13 +5,13 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
-        List<String> strList=new ArrayList<>();
-        strList.add("test1");
-        strList.add("test2");
-        strList.add("test3");
-        strList.forEach(s->{
-            System.out.println(s.charAt(4));
-        });
+//        List<String> strList=new ArrayList<>();
+//        strList.add("test1");
+//        strList.add("test2");
+//        strList.add("test3");
+//        strList.forEach(s->{
+//            System.out.println(s.charAt(4));
+//        });
 //        Map<String, Book> map=new HashMap<>();
 //        for (int i=0;i<3;i++){
 //            map.put("book"+i,new Book(i+"","bookname"+i));
