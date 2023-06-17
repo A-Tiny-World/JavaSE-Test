@@ -5,6 +5,7 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
+        String a="a",b="b",c="c";
 //        List<String> strList=new ArrayList<>();
 //        strList.add("test1");
 //        strList.add("test2");
