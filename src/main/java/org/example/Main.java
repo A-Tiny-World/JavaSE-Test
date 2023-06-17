@@ -5,15 +5,15 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
-        int x=1,y=2,z=3;
+        String a="a",b="b",c="c",d="d";
         List<String> strList=new ArrayList<>();
         strList.add("test1");
         strList.add("test2");
         strList.add("test3");
-        strList.forEach(s->{
-            System.out.println(s.charAt(4));
-        });
-        Map<String, Book> map=new HashMap<>();
+//        strList.forEach(s->{
+//            System.out.println(s.charAt(4));
+//        });
+//        Map<String, Book> map=new HashMap<>();
 //        for (int i=0;i<3;i++){
 //            map.put("book"+i,new Book(i+"","bookname"+i));
 //        }
